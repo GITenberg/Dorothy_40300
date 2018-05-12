@@ -1,0 +1,32 @@
+_repo: Dorothy_40300
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40300-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Raymond, Evelyn
+    alias: Raymond, Evelyn Hunt
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '31472'
+    url: http://www.gutenberg.org/2009/agents/31472
+description: ''
+gutenberg_issued: '2012-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'Baltimore (Md.) -- Social life and customs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Children and adults -- Juvenile fiction'
+- !lcsh 'Chester, Dorothy (Fictitious character) -- Juvenile fiction'
+title: Dorothy
+url: http://www.gutenberg.org/ebooks/40300
